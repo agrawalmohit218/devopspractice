@@ -3,3 +3,5 @@ learning git basics
 ADDDED BY developer
 new feature added
  change from developer B
+change from developer A
+
