@@ -2,3 +2,4 @@ Hello devops -Day 1
 learning git basics
 ADDDED BY developer
 new feature added
+ change from developer B
