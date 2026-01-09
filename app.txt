@@ -4,3 +4,4 @@ ADDDED BY developer
 new feature added
 change from developer A
 login feature work
+new trial feature added
