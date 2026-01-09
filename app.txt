@@ -6,3 +6,4 @@ change from developer A
 login feature work
 new trial feature added
 try to learn git branch
+hello new line addded
