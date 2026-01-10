@@ -2,11 +2,23 @@ Hello devops -Day 1
 learning git basics
 ADDDED BY developer
 new feature added
+ change from developer B
 change from developer A
+
 login feature work
 new trial feature added
 try to learn git branch
 hello new line addded
 hello starnger things
 second try git branch
+
 one two three and four
+
+
+third try to learn git
+
+
+
+cricket is good for all the plants
+
+>>>>>>> 0571264e1180fa280925139d9537ad8f06230c67
