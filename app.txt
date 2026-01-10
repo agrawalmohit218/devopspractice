@@ -21,4 +21,4 @@ third try to learn git
 
 cricket is good for all the plants
 
->>>>>>> 0571264e1180fa280925139d9537ad8f06230c67
+
